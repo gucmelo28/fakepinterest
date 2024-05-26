@@ -6,19 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="72068102-64a8-4d84-b3c6-cd450bbdb857" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/criar_banco.py" beforeDir="false" afterPath="$PROJECT_DIR$/criar_banco.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/templates/criarconta.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/criarconta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/templates/feed.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/feed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakepint/templates/perfil.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/perfil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gucmelo28&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gucmelo28/fakepinterest.git&quot;,
+    &quot;accountId&quot;: &quot;42b51d95-c700-4b63-bd18-8edf47b36c62&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -56,7 +58,8 @@
     "Python.routes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/plugify/PycharmProjects/FakePinterest/templates"
+    "last_opened_file_path": "C:/Users/plugify/PycharmProjects/FakePinterest/templates",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -116,5 +119,16 @@
       <updated>1716038723180</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
