@@ -1,20 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="72068102-64a8-4d84-b3c6-cd450bbdb857" name="Changes" comment="" />
+    <list default="true" id="72068102-64a8-4d84-b3c6-cd450bbdb857" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/criar_banco.py" beforeDir="false" afterPath="$PROJECT_DIR$/criar_banco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/templates/criarconta.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/criarconta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/templates/feed.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/feed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fakepint/templates/perfil.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakepint/templates/perfil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2gdsKD5RbaR6w8cQCRsaJEDkxJY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.TEST.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.criar_banco.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.routes.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/plugify/PycharmProjects/FakePinterest/templates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\plugify\PycharmProjects\FakePinterest\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\plugify\PycharmProjects\FakePinterest\fakepint\static\fotos_site" />
+      <recent name="C:\Users\plugify\PycharmProjects\FakePinterest\fakepint\static\css" />
+      <recent name="C:\Users\plugify\PycharmProjects\FakePinterest" />
+      <recent name="C:\Users\plugify\PycharmProjects\FakePinterest\fakepint" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FakePinterest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
